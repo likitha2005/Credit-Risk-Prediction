@@ -1,7 +1,4 @@
-# Credit-Risk-Prediction
-Here's a README file description for your Git repository based on the provided project overview:
 
----
 
 # Credit Risk Prediction with PCA and Advanced Preprocessing
 
@@ -62,7 +59,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
 ## How to Run
 ### Clone the Repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/likitha2005/Credit-Risk-Prediction
 cd credit-risk-prediction
 ```
 
